@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42"
+   height="36"
+   viewBox="0 0 11.1125 9.525"
+   version="1.1"
+   id="svg282"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="rumah-wildan-logo-rev.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview284"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#5d5d5d"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="11.816274"
+     inkscape:cx="19.676254"
+     inkscape:cy="17.602842"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="148.32087,12.39111"
+       orientation="1,0"
+       id="guide340"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="275.14595,-228.36161"
+       orientation="1,0"
+       id="guide342"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.363167,-6.1814708"
+       orientation="0,-1"
+       id="guide344"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="116.79372,-268.48706"
+       orientation="0,-1"
+       id="guide346"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs279" />
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1444"
+       style="fill:#000000"
+       transform="matrix(0.03379264,0,0,0.03379264,0.72569648,-0.04384015)">
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="M 276.57901,9.3148371 147.60434,141.87213 198.47768,57.322074 58.0386,58.0386 58.755126,227.13872 9.3148371,277.29553 V 7.1652592 v 0"
+         id="path1323" />
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="M 16.480096,276.57901 146.88781,147.60434 227.13872,228.57177 227.85525,67.353436 276.57901,17.913148 V 276.57901 l -48.00724,0.71652 -81.68396,-117.51025 -89.565736,116.79373"
+         id="path1379" />
+    </g>
+  </g>
+</svg>

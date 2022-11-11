@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 285.74999 285.75"
+   version="1.1"
+   id="svg282"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="rumah-wildan-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview284"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#5d5d5d"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.36925856"
+     inkscape:cx="36.559748"
+     inkscape:cy="476.63079"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="148.32087,288.6161"
+       orientation="1,0"
+       id="guide340"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="275.14595,47.86339"
+       orientation="1,0"
+       id="guide342"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="103.17973,277.15169"
+       orientation="0,-1"
+       id="guide344"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="116.79372,7.7379374"
+       orientation="0,-1"
+       id="guide346"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs279" />
+  <g
+     inkscape:label="Lapis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1444"
+       style="fill:#000000"
+       transform="matrix(0.82573726,0,0,0.82573726,24.838399,1.2486377)">
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="M 276.57901,9.3148371 147.60434,141.87213 198.47768,57.322074 58.0386,58.0386 58.755126,227.13872 9.3148371,277.29553 V 7.1652592 v 0"
+         id="path1323" />
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="M 16.480096,276.57901 146.88781,147.60434 227.13872,228.57177 227.85525,67.353436 276.57901,17.913148 V 276.57901 l -48.00724,0.71652 -81.68396,-117.51025 -89.565736,116.79373"
+         id="path1379" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:51.5401px;font-family:'Moving Skate';-inkscape-font-specification:'Moving Skate';fill:#000000;stroke-width:0.268438"
+       x="29.741247"
+       y="292.71356"
+       id="text1448"
+       transform="scale(1.0928126,0.91506998)"><tspan
+         sodipodi:role="line"
+         id="tspan1446"
+         style="font-size:51.5401px;stroke-width:0.268438"
+         x="29.741247"
+         y="292.71356">Rumah Wildan</tspan></text>
+  </g>
+</svg>
