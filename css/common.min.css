@@ -613,7 +613,6 @@ select.checked {
 }
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
-  -webkit-appearance: none;
   margin: 0;
 }
 textarea {
@@ -1061,9 +1060,9 @@ nav#main .responsive {
     background-color: #f5f7fa;
     box-shadow: 0 16px 16px rgba(18, 51, 84, 0.075);
     -webkit-animation: 0.5s fadein;
-    moz-animation: fadein 0.5s ease;
-    ms-animation: fadein 0.5s ease;
-    o-animation: fadein 0.5s ease;
+    -moz-animation: fadein 0.5s ease;
+    -ms-animation: fadein 0.5s ease;
+    -o-animation: fadein 0.5s ease;
     animation: 0.5s fadein;
     -webkit-transform: translateZ(0);
     -moz-transform: translateZ(0);
